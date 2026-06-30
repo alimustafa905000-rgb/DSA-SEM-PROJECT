@@ -13,7 +13,6 @@ Car removal
 Parking fee collection
 Searching parked cars
 Displaying available slots
-
 This project demonstrates practical implementation of Stack and Queue in a real-world system.
 
 # Objectives
@@ -90,7 +89,7 @@ parking.exe
 # Linux/Mac:
 
 ./parking
-📜 Menu Options
+ Menu Options:
 1. Park Car
 2. Remove Car
 3. Display Parked Cars
@@ -99,9 +98,9 @@ parking.exe
 6. Check Available Slots
 7. Show Total Earnings
 8. Exit
-📊 Example Flow
-Slots = 5
 
+# Example Flow
+Slots = 5
 Car1 enters
 Car2 enters
 Car3 enters
