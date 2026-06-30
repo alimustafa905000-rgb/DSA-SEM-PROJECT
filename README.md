@@ -40,7 +40,8 @@ C++
 Object-Oriented Programming (OOP)
 Stack (LIFO)
 Queue (FIFO)
-📂 Data Structures Used
+
+# Data Structures Used
 
 1. Stack
 
